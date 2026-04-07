@@ -10,5 +10,7 @@ I love Information Security memes, focus on offensive operations, and generally 
 | --- | --- | --- |
 | https://c0z.red | https://twitter.com/s0m3th1n5 | https://infosec.exchange/@c0z |
 
-[![Ghost53574's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost53574&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost53574&hide=html,css,yara,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
